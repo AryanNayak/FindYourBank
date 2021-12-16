@@ -49,7 +49,7 @@
 
 
 
-Find Your Bank is an application which helps you find out details like the bank name, branch, city, IFSC and address of all the banks situated in top 5 cities of India. 
+Find Your Bank is an application which helps you find out details like the bank name, branch, city, IFSC and address of all the banks situated in top 5 cities of India.  
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
