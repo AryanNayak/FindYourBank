@@ -35,7 +35,7 @@
       </ul>
     </li>
     <li>
-     <a href="#demo">Video Demo</a>
+     <a href="#demo">Demo</a>
      
    
     
